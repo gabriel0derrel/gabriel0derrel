@@ -1,15 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
+</p>
 <h1 align="center">👨‍💻 Gabriel Derrel 🖖</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Engenharia+de+Computação;Iniciação+Científica+em+IA;PUC+GO;Live+Long+and+Prosper"/>
-</p>
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=gabriel0derrel&data=followers,repositories,stars,commits&theme=dark" width="90%">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 </p>
 
 <h2 align="center">⚡ Tecnologias</h2>
