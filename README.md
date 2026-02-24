@@ -2,7 +2,7 @@
 <h3 align="center">Engenharia de Computação • Iniciação Científica em IA</h3>
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=gabriel0derrelO&data=followers,repositories,stars,commits&theme=dark" width="90%">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=gabriel0derrel&data=followers,repositories,stars,commits&theme=dark" width="90%">
 </p>
 
 <p align="center">
@@ -15,39 +15,25 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,postgres,git,linux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="48" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/processor.png" width="48"/>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" />
 </p>
-
----
-
-<h2 align="center">🧠 Foco Atual</h2>
-
-<p align="center">
-  🤖 Inteligência Artificial <br>
-  🧩 Estruturas de Dados <br>
-  ⚙️ Programação de Baixo Nível <br>
-  🚀 Otimização e Performance
-</p>
-
 ---
 
 <h2 align="center">📊 Estatísticas</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabriel0derrel&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0derrel&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel0derrel&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriel0derrel&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-<h2 align="center">🔥 Streak</h2>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gabriel0derreltheme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=gabriel0derrel&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
