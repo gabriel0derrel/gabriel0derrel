@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://codeberg.org/gabriel0derrel/gabriel0derrel/src/branch/main/gabriel0derrel.gpg" target="_blank">
+  <a href="https://codeberg.org/gabriel0derrel.gpg" target="_blank">
     <img src="https://codeberg.org/attachments/d915bf35-25ee-4a13-9597-f474a4b6c224" width="48"/>
     <strong>Codeberg</strong>
   </a>
