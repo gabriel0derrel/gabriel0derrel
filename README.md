@@ -34,9 +34,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gabriel0derrel.gpg" target="_blank">
+  <a href="VERIFY.md" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/00ffcc/key.png" width="20"/>
-    <strong> Minha Chave GPG Pública</strong>
+    <strong> Minha Chave PGP Pública</strong>
   </a>
 </p>
 
